@@ -11,7 +11,7 @@ Check his repo - [Malayalam-CNN](https://github.com/jabir366/Malayalam-CNN)
 
 ## Steps
 
-- Preprocessing
+- Preprocessing (Don't skip last parts where we make pickle file)
 
 - train
 
